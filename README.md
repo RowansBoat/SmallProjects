@@ -1,4 +1,4 @@
-# Rowan's Small Projects Collection
+# Small Projects Collection
 
 Welcome to my collection of small projects! This repository contains various projects that I have created over time to explore different concepts and improve my skills in various programming languages and technologies.
 
